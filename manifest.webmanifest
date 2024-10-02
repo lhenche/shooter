@@ -3,8 +3,8 @@
     "short_name": "Shooter",
     "icons": [
         {
-            "src":"assets/bueno.png",
-            "sizes": "100x100",
+            "src":"assets/bueno144.png",
+            "sizes": "144x144",
             "type": "image/png"
         }
     ],
