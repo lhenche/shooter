@@ -6,10 +6,18 @@
             "src":"assets/bueno144.png",
             "sizes": "144x144",
             "type": "image/png"
+        },
+        {
+            "src":"assets/bueno512.png",
+            "sizes": "512x512",
+            "type": "image/png"
         }
     ],
     "start_url": "/index.html",
     "display": "standalone",
     "background_color": "#333333",
-    "theme_color": "#6200ee"
+    "theme_color": "#6200ee",
+    "orientation": "natural",
+    "description": "Shooter game",
+    "id": "shooter"
 }
